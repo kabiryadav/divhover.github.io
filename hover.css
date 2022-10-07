@@ -1,0 +1,6 @@
+.one{width: 200px;
+    height: 200px;
+    background-color: aqua;}
+
+    .one:hover{width: 400px;
+            background-color: red;}
